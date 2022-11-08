@@ -7,7 +7,10 @@ Template sample
 
 For further info please visit the following [guide](https://one-carat-blog.netlify.app/posts/obsidian_zotero/).
 
-### Plugins credits
+### Plugins used
+
+All plugin credits go to their respective developers. 
+
 1.    [Obsidian Admonition](https://github.com/valentine195/obsidian-admonition)
 2.    [Autocomplete Obsidian Plugin](https://github.com/yeboster/autocomplete-obsidian)
 3.    [Better Word Count](https://github.com/lukeleppan/better-word-count)
