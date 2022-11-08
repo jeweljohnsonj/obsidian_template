@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "Literature_collection",
+  "literatureNoteContentTemplate": "---\ntitle: \"{{title}}\"\nauthors: {{authorString}}\nyear: {{year}}\ncitekey: {{citekey}}\n---\n\n>[!title]\n{{title}}\n\n>[!year]\n{{year}}\n\n>[!author]\n{{authorString}}\n\n------------------------------------\n\nURL: {{URL}}\n\nZotero link:  [@{{citekey}}]({{zoteroSelectURI}})\n\ntags::\n\n------------------------------------\n\n### Research question\n1. \n\n### Findings\n1. \n\n### Discussion\n1. \n\n### Methodology\n1. \n\n### Remarks\n1. \n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "/home/jewel/Work/Better_BibLaTex_Zotero/PhD.bib"
+}

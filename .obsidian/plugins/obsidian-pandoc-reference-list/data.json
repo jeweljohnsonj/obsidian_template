@@ -1,0 +1,6 @@
+{
+  "pathToPandoc": "/usr/bin/pandoc",
+  "tooltipDelay": 800,
+  "pathToBibliography": "/home/jewel/Work/Better_BibLaTex_Zotero/PhD.bib",
+  "showCitekeyTooltips": false
+}
