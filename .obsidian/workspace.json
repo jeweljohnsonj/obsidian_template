@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research_diary/Example note.md",
+                "file": "Literature_collection/@Begg2020.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research_diary/Example note.md"
+                "file": "Literature_collection/@Begg2020.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research_diary/Example note.md",
+                "file": "Literature_collection/@Begg2020.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research_diary/Example note.md",
+                "file": "Literature_collection/@Begg2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,15 +201,15 @@
   },
   "active": "27c20e5bedb24d1f",
   "lastOpenFiles": [
-    "Literature table.md",
     "Research_diary/Example note.md",
+    "Literature table.md",
+    "Literature_collection/@Begg2020.md",
+    "Literature_collection/@Crowder.Ward2022.md",
     "Literature_collection/@Atherton.McCormick2015.md",
     "PhD_projects/Research Ideas.md",
     "Embryonic_learning_references/@Crowder.Ward2022.md",
     "Embryonic_learning_references/@Mathiron.etal2015.md",
     "Embryonic_learning_references/@Chivers.Smith1994.md",
-    "202211021908.md",
-    "202211021909.md",
-    "Embryonic_learning_references/@Mathis.etal1993.md"
+    "202211021908.md"
   ]
 }
