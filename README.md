@@ -11,7 +11,7 @@ For further info please visit the following [guide](https://one-carat-blog.netli
 
 ### Plugins used
 
-All plugin credits go to their respective developers. 
+These are plguins used in the template. These are not owned or made by me. All plugin credits go to their respective developers. Please visit the link to learn more about the plugin.
 
 1.    [Obsidian Admonition](https://github.com/valentine195/obsidian-admonition)
 2.    [Autocomplete Obsidian Plugin](https://github.com/yeboster/autocomplete-obsidian)
