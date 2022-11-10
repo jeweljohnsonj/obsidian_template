@@ -1,8 +1,8 @@
-# Obsidian template vault folder
+# Obsidian literature note taking template
 
 The repo contains a vault template for Obsidian. You can use this template to take literature notes and summaries.
 
-Clone or download this repository and open the folder in Obsidian to use the template
+>Clone or download this repository and open the folder in Obsidian to use the template
 
 ![](https://one-carat-blog.netlify.app/posts/obsidian_zotero/images/vault_folder.png)
 Template sample
