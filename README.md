@@ -4,7 +4,7 @@ The repo contains a vault template for Obsidian. You can use this template to ta
 
 >Clone or download this repository and open the folder in Obsidian to use the template
 
-![](https://raw.githubusercontent.com/jeweljohnsonj/one-carat-blog/e9568721a48ce42a01b4ff22a2c57a404ab11241/posts/obsidian_zotero/images/obsidian_interface_inkscape.svg)
+![](https://raw.githubusercontent.com/jeweljohnsonj/one-carat-blog/e9568721a48ce42a01b4ff22a2c57a404ab11241/posts/obsidian_zotero/images/obsidian_interface_inkscape.png)
 Template sample
 
 For further info please visit the following [guide](https://one-carat-blog.netlify.app/posts/obsidian_zotero/).
