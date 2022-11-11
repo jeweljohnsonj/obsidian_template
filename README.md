@@ -4,14 +4,15 @@ The repo contains a vault template for Obsidian. You can use this template to ta
 
 >Clone or download this repository and open the folder in Obsidian to use the template
 
-![](https://raw.githubusercontent.com/jeweljohnsonj/one-carat-blog/main/posts/obsidian_zotero/images/obsidian_interface_inkscape.png)
-Template sample
+| ![space-1.jpg](https://raw.githubusercontent.com/jeweljohnsonj/one-carat-blog/main/posts/obsidian_zotero/images/obsidian_interface_inkscape.png) | 
+|:--:| 
+| *Template sample* |
 
 For further info please visit the following [guide](https://one-carat-blog.netlify.app/posts/obsidian_zotero/).
 
 ### Plugins used
 
-These are the plguins used in the template. They are not owned or made by me. All plugin credits go to their respective developers. Please visit the link to learn more about the plugins.
+These are the plugins used in the template. They are not owned or made by me. All plugin credits go to their respective developers. Please visit the link to learn more about the plugins.
 
 1.    [Obsidian Admonition](https://github.com/valentine195/obsidian-admonition)
 2.    [Autocomplete Obsidian Plugin](https://github.com/yeboster/autocomplete-obsidian)
